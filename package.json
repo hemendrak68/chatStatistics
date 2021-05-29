@@ -1,0 +1,16 @@
+{
+  "name": "chat-statistic",
+  "version": "1.0.0",
+  "description": "Demo for Test Chat Statistic ",
+  "main": "app.js",
+  "scripts": {
+    "start": "node --trace-warnings app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1"
+  }
+}
